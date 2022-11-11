@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: initsixcloud/petclinic
-  tag: latest
+  repository: vrbabu/petclinic-buildpush-dockerhub
+  tag: 5
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
